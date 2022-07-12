@@ -16,5 +16,5 @@ def translate(word):
         
     
 
-print(translate("elephant"))
+print(translate("Elephant"))
 

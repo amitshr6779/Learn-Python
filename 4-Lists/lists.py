@@ -15,7 +15,7 @@ print(freinds[-1])
 freinds[1] = "Mike"
 print(freinds)
 
-#concetenate on list to another
+#concetenate one list to another
 #freinds.extend(lucky)
 #print(freinds)
 
